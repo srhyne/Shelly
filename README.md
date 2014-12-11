@@ -13,7 +13,7 @@ I just got tired of writing really difficult queries for updating a few records.
 ## What can I do with it? 
 
 - Build up queries with `and_where`, `and_has`
-- Easily set your scope, call .set('key', value), then save to make editing documents painless
+- Easily set your scope, call `.set('key', value)`, then save to make editing documents painless
 - Update documents like an ORM class
 - Pluck out values from ambiguaous paths `.get('my.really.deep.path')`
 
