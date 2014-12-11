@@ -1,6 +1,6 @@
 # Shelly.js
 
-![Shelly.js Logo](shellyjs-logo.png)
+<img src="shellyjs-logo.png" style="max-width:300px"/>
 
 ## What is it? 
 
