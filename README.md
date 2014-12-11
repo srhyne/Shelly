@@ -4,11 +4,18 @@
 
 ## What is it? 
 
-Build queries and update MongoDB documents quickly. Written in JS for MongoDB's JS Shell.
+Make building queries and updating MongoDB documents in shell much easier. Written in JS for MongoDB's JS Shell.
 
-## Why did you built it? 
+## Why did you build it? 
 
 I just got tired of writing really difficult queries for updating a few records. I got tired of hitting the shell window width and flubbing bracket placement. 
+
+## What can I do with it? 
+
+- Build up queries with `and_where`, `and_has`
+- Easily set your scope, call .set('key', value), then save to make editing documents painless
+- Update documents like an ORM class
+- Pluck out values from ambiguaous paths `.get('my.really.deep.path')`
 
 ## Example use.. 
 
