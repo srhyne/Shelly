@@ -1,5 +1,7 @@
 # Shelly.js
 
+![Shelly.js Logo](shellyjs-logo.png)
+
 ## What is it? 
 
 Build queries and update MongoDB documents quickly. Written in JS for MongoDB's JS Shell.
@@ -87,3 +89,5 @@ let me know!!
 - Support building queries with other Shelly queries
 - map reduce, stuff
 - Easy join builder
+
+<small><a href="http://graphicriver.net/item/professions-business-characters-girls/8603670">Logo by Natalypaint and not part of license</a></small>
