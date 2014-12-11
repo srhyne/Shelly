@@ -4,7 +4,7 @@
 
 ## What is it? 
 
-Make building queries and updating MongoDB documents in shell much easier. Written in JS for MongoDB's JS Shell.
+Make building queries and updating MongoDB documents in the Mongo shell much easier. Written in JS for MongoDB's JS Shell.
 
 ## Why did you build it? 
 
